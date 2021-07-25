@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/testsecurity?serverTimezone=GMT%2B8
+    username: root
+    password: Tph123456
+
+
+
+
+
+
+tph:
+  security:
+    code:
+      image:
+        length: 4
+        width: 65
+        url: /user,/user/*

@@ -1,0 +1,1 @@
+基于hadoop结合spring全家桶,采用hdfs文件系统存储的以jpa完成持久层的项目
